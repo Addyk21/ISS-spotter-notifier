@@ -39,10 +39,8 @@ def is_dark():
         data_time["results"]["sunrise"].split("T")[1].split(":")[0])  # using split function to get only the hour
     sunset = int(data_time["results"]["sunset"].split("T")[1].split(":")[0])
 
-    print(sunrise, sunset)
     time_now = datetime.now().hour
-    print(time_now)
-
+    # checking whether it's dark outside or not
     if sunset <= time_now or time_now <= sunrise:
         return True
 
