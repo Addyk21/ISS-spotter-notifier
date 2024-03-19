@@ -1,4 +1,4 @@
-# ISS Spotter Notifier
+# ISS Spotting Notifier
 
 ![ISS image](https://github.com/Addyk21/ISS-spotter-notifier/assets/121149505/097f8efb-0d5d-42ca-9916-ef9ff754bd30)
 
