@@ -1,4 +1,4 @@
-# ISS Spotting Notifier
+# ISS Spotter Notifier
 
 ![ISS image](https://github.com/Addyk21/ISS-spotter-notifier/assets/121149505/097f8efb-0d5d-42ca-9916-ef9ff754bd30)
 
@@ -31,7 +31,3 @@ This script utilizes your location coordinates (latitude and longitude) as input
 
 1. Clone the repository: `git clone https://github.com/Addyk21/ISS-spotter-notifier.git`
 2. Run the script: `python iss_spotter.py`
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
